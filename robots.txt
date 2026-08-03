@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-221e5q.mineraltoto67mec.lat/sitemap.xml
